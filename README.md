@@ -1,2 +1,3 @@
 # test Dragos
-Invatam Git.
+- [] Invatam Git.
+- [] Invatam programare
