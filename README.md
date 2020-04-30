@@ -18,3 +18,6 @@ git show
 212
 122222
 programare
+comanda
+git branch
+git checkout
