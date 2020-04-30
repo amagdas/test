@@ -1,18 +1,9 @@
 # test Dragos
 - [] Invatam Git.
 - [] Invatam programare
-- facem updateituri
+- facem update-uri
 - invatam si programare si git si mai si facem update-uri
-- helo
-hei Dragos, de ce nu asculti?
-alooo
-ffffffffff
-ma sculti tata
-nu
-hei tata dece nu ma asculti?
-te ascult banditule!!!
-
-wooohooo
+- hello
 
 Comenzi:
 
@@ -21,6 +12,8 @@ git add .
 git commit -m "mesajul meu"
 git push
 git pull
+git log
+git show
 
 212
 122222
