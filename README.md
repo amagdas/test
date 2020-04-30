@@ -14,3 +14,10 @@ te ascult banditule!!!
 
 wooohooo
 
+Comenzi:
+
+git diff
+git add .
+git commit -m "mesajul meu"
+git push
+git pull
