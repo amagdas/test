@@ -21,3 +21,6 @@ git add .
 git commit -m "mesajul meu"
 git push
 git pull
+
+212
+122222
