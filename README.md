@@ -17,3 +17,4 @@ git show
 
 212
 122222
+programare
