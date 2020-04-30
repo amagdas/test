@@ -20,4 +20,4 @@ git show
 programare
 comanda
 git branch
-git checkout
+git checkout -b <numele branchului>
